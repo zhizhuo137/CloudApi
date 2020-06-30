@@ -8,7 +8,7 @@ import java.util.Map;
 public class TestGit {
 	public static void main(String[] args) throws NoSuchMethodException, SecurityException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
 		System.out.println("testdGit");
-		System.out.println("commitLocal11");
+		System.out.println("commitLocal222");
 		Map map = new HashMap(1000);
 		Class<?> mapType = map.getClass();
 		Method capacity = mapType.getDeclaredMethod("capacity");
